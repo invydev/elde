@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000;
 
 // Konfigurasi
 const config = {
-  egg: "16",
+  egg: "1",
   nestid: "5",
   loc: "1",
   domain: process.env.PTERODACTYL_DOMAIN,
